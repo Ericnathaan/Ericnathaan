@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá! Eu sou o Eric Nathan
+Desenvolvedor Front-end | JS | HTML | CSS | BOOTSTRAP
 
-<!--
-**Ericnathaan/Ericnathaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block">
+  <a href="https://github.com/Ericnathaan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ericnathaan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>      
+  <a href="https://github.com/Ericnathaan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericnathaan&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+    <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" alt="javascript" height="34" width="34" src="https://lucianolpsf.github.io/portfolio/assets/img/icons/Javascript.png">
+    <img align="center" alt="bootstrap" height="40" width="40" 
+    <img align="center" alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="github" height="40" width="40" src="https://img.icons8.com/?size=512&id=bVGqATNwfhYq&format=png">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
